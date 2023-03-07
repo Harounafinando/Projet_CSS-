@@ -1,0 +1,55 @@
+p {
+   display: inline;
+ }
+ body{
+   font-family: Helvetica neue, roboto;
+ }
+ .title_H1{
+   background-color: red;
+   color: white;
+   width: fit-content;
+   padding: 5px;
+   border: solid 3px;
+   border-color: black;
+   border-radius: 10px;
+ }
+ .rounded {
+   border-radius: 10px;
+   background-color: red;
+   color: white;
+   width: fit-content;
+   padding: 5px;
+   border: solid 3px;
+   border-color: rgb(11, 11, 11);
+ }
+ h3 {
+   border-radius: 10px;
+   background-color: red;
+   color: white;
+   width: fit-content;
+   padding: 5px;
+   border: solid 3px;
+   border-color: rgb(11, 11, 11);
+ }
+ h5 {
+   border-radius: 10px;
+   background-color: red;
+   color: white;
+   width: fit-content;
+   padding: 5px;
+   border: solid 3px;
+ }
+ h4 {
+   border-radius: 10px;
+   background-color: red;
+   color: white;
+   width: fit-content;
+   padding: 5px;
+   border: solid 3px;
+ }
+ a :hover {
+   color: yellowgreen;
+ }
+ a :active {
+   color: yellow;
+ }
